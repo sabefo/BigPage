@@ -37,6 +37,10 @@ p {
   /*color: white;*/
 }
 
+#top-nav ul {
+	padding-left: 40%;
+}
+
 #top-nav a {
   color: white;
 	text-decoration: none;
